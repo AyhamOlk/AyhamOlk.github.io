@@ -2,122 +2,78 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Link to another page](./another-page.html).
+[Linkedin Page](https://www.linkedin.com/in/ayham-olleik-9aaa97188/).
 
-There should be whitespace between paragraphs.
+## Personal
+Interested in Computer Vision, Deep Learning, Natural Language Processing and Applied Research.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Work Experience
 
-# Header 1
+### Machine Learning Engineer
+Working on the development of a complete **Natural Language Processing (NLP)** pipeline for Financial Information Extraction from various input formats such as pdf documents.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Company:** [73Strings](https://www.73strings.com/)\
+**Location:** Paris, France\
+**Date:** Oct. 2022 - Present
 
-## Header 2
+### Research & Machine Learning Intern
+At 73Strings, I have completed a six months internship working mainly in **NLP** for Financial Information Extraction.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Company:** [73Strings](https://www.73strings.com/)\
+**Location:** Paris, France\
+**Date:** Apr. 2022 - Sept. 2022\
+![73Strings](assets/images/73strings.jpeg)
 
-### Header 3
+### Deep Learning and Computer Vision Intern
+Worked from scratch on the Research & Development of a complete **Synthetic Data Generation** pipeline for the purpose of **Computer Vision** training tasks. The pipeline consists of an **Automated Rendering** component using user input **3D Models** and various custom HDRI backgrounds. Additionally, the rendering runs on the [Blender](https://www.blender.org/) Engine and proper experiments were ran on training SOTA Computer Vision models (Yolo, Dssd, Rcnn)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Company:** [Groupe Renault](https://www.renaultgroup.com/)\
+**Location:** Paris, France\
+**Date:** Apr. 2021 - Sept. 2021
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Transverse Project
+In collaboration between [Ecole Polytechnique](https://www.polytechnique.edu/) & [Clipdrop](https://clipdrop.co/) I have worked on an Image Relighting project using **GANs** and concepts from **3D reconstruction** of normal, depth and specular maps. The project aims at **relighting** the image using new backgrounds while taking into consideraton the 3D information of the original un-presented scene. I worked on training **Deep Learning** models on **Big Datasets** on **[AWS](https://aws.amazon.com/)**.
 
-#### Header 4
+**Instituation:** [Ecole Polytechnique](https://www.polytechnique.edu/) & [Clipdrop](https://clipdrop.co/)\
+**Location:** Paris, France\
+**Date:** Oct. 2021 - Apr. 2022
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Software Engineer
+Worked on the development of new features for the main app developed by Pocketcampus. I was mainly working with **Java** and **MySQL**.
 
-##### Header 5
+**Instituation:** [Pocketcampus](https://pocketcampus.org/v2/home-en)\
+**Location:** Beirut, Lebanon\
+**Date:** Oct. 2019 - Jun. 2020
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### Research Assitant
+At the American Univerity of Beirut, I collaborated and wrote code with a research team working on Algorithmic Fairness for online job market ranking algorithms.
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+**Instituation:** [American Univerity of Beirut](https://www.aub.edu/)\
+**Location:** Beirut, Lebanon\
+**Date:** Jan. 2020 - Jun. 2020
 
 
-### Definition lists can be used with HTML syntax.
+### Software Engineer Intern
+Worked on a project aiming at replacing campus ID cards (e-purse, access control) with a smartphone app that authenticates against a TWN4 Canon reader device over Bluetooth Low Energy (BLE) technology. The project included a research phase to determine the secured protocol that will be used between the app and the TWN4 reader and finally an implementation phase for a fully working proof of concept demo on Android devices.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+**Instituation:** [Pocketcampus](https://pocketcampus.org/v2/home-en)\
+**Location:** Lausanne, Switzerland\
+**Date:** Jun. 2019 - Sept. 2019
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## Education
 
-```
-The final element.
-```
+### École Polytechnique
+**Degree:** Masters' in Artificial Intelligence & Advanced Visual Computing (Graduated with Distinction)\
+**Location:** Paris, France\
+**Date:** Sept. 2020 - Sept. 2022\
+**Website:** [l'X](https://www.polytechnique.edu/)
+
+### American University of Beirut
+**Degree:** Bachelor of Engineering in Computer and Communications (Graduated with Distinction)\
+**Location:** Paris, France\
+**Date:** Jun. 2016 - Jun. 2020\
+**Website:** [AUB](https://www.aub.edu/)
+
+## Relevant Courses and Projects
