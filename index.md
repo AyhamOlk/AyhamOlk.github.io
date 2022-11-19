@@ -6,6 +6,8 @@ layout: default
 
 <!-- [Linkedin Page](https://www.linkedin.com/in/ayham-olleik-9aaa97188/). -->
 
+[Work Expericence](#work-experience) | [Education](#education) | [Course & Projects](#courses-and-projects) | [Contact](#contact)
+
 # Personal
 Interested in Computer Vision, Deep Learning, Natural Language Processing and Applied Research.\
 [LinkedIn Page](https://www.linkedin.com/in/ayham-olleik-9aaa97188/)
@@ -78,3 +80,5 @@ Worked on a project aiming at replacing campus ID cards (e-purse, access control
 **Website:** [AUB](https://www.aub.edu/)
 
 # Courses and Projects
+
+# Contact
