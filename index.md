@@ -7,7 +7,8 @@ layout: default
 <!-- [Linkedin Page](https://www.linkedin.com/in/ayham-olleik-9aaa97188/). -->
 
 # Personal
-Interested in Computer Vision, Deep Learning, Natural Language Processing and Applied Research.
+Interested in Computer Vision, Deep Learning, Natural Language Processing and Applied Research.\
+[LinkedIn Page](https://www.linkedin.com/in/ayham-olleik-9aaa97188/)
 
 # Work Experience
 
@@ -65,15 +66,15 @@ Worked on a project aiming at replacing campus ID cards (e-purse, access control
 # Education
 
 ## École Polytechnique
-**Degree:** Masters' in Artificial Intelligence & Advanced Visual Computing (Graduated with Distinction)\
+**Degree:** Masters' in **Artificial Intelligence & Advanced Visual Computing** (Graduated with Distinction)\
 **Location:** Paris, France\
 **Date:** Sept. 2020 - Sept. 2022\
 **Website:** [l'X](https://www.polytechnique.edu/)
 
 ## American University of Beirut
-**Degree:** Bachelor of Engineering in Computer and Communications (Graduated with Distinction)\
+**Degree:** Bachelor of **Engineering in Computer and Communications** (Graduated with Distinction)\
 **Location:** Paris, France\
 **Date:** Jun. 2016 - Jun. 2020\
 **Website:** [AUB](https://www.aub.edu/)
 
-# Relevant Courses and Projects
+# Courses and Projects
