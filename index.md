@@ -4,7 +4,7 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Linkedin Page](https://www.linkedin.com/in/ayham-olleik-9aaa97188/).
+<!-- [Linkedin Page](https://www.linkedin.com/in/ayham-olleik-9aaa97188/). -->
 
 # Personal
 Interested in Computer Vision, Deep Learning, Natural Language Processing and Applied Research.
