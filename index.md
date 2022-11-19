@@ -6,7 +6,7 @@ layout: default
 
 <!-- [Linkedin Page](https://www.linkedin.com/in/ayham-olleik-9aaa97188/). -->
 
-**[Personal](#personal) | [Work Expericence](#work-experience) | [Education](#education) | [Course & Projects](#courses-and-projects) | [Contact](#contact)**
+**[Personal](#personal) | [Work Experience](#work-experience) | [Education](#education) | [Courses & Projects](#courses-and-projects) | [Contact](#contact)**
 
 * * *
 
@@ -52,7 +52,7 @@ In collaboration between [Ecole Polytechnique](https://www.polytechnique.edu/) &
 ## Software Engineer
 Worked on the development of new features for the main app developed by Pocketcampus. I was mainly working with **Java** and **MySQL**.
 
-**Instituation:** [Pocketcampus](https://pocketcampus.org/v2/home-en)\
+**Company:** [Pocketcampus](https://pocketcampus.org/v2/home-en)\
 **Location:** Beirut, Lebanon\
 **Date:** Oct. 2019 - Jun. 2020
 
@@ -67,7 +67,7 @@ At the American Univerity of Beirut, I collaborated and wrote code with a resear
 ## Software Engineer Intern
 Worked on a project aiming at replacing campus ID cards (e-purse, access control) with a smartphone app that authenticates against a TWN4 Canon reader device over Bluetooth Low Energy (BLE) technology. The project included a research phase to determine the secured protocol that will be used between the app and the TWN4 reader and finally an implementation phase for a fully working proof of concept demo on Android devices.
 
-**Instituation:** [Pocketcampus](https://pocketcampus.org/v2/home-en)\
+**Company:** [Pocketcampus](https://pocketcampus.org/v2/home-en)\
 **Location:** Lausanne, Switzerland\
 **Date:** Jun. 2019 - Sept. 2019
 
@@ -81,7 +81,7 @@ Worked on a project aiming at replacing campus ID cards (e-purse, access control
 
 ## American University of Beirut
 **Degree:** Bachelor of **Engineering in Computer and Communications** (Graduated with Distinction)\
-**Location:** Paris, France\
+**Location:** Beirut, Lebanon\
 **Date:** Jun. 2016 - Jun. 2020\
 **Website:** [AUB](https://www.aub.edu/)
 
