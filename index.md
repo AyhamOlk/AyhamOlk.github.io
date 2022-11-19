@@ -6,11 +6,17 @@ layout: default
 
 <!-- [Linkedin Page](https://www.linkedin.com/in/ayham-olleik-9aaa97188/). -->
 
-[Work Expericence](#work-experience) | [Education](#education) | [Course & Projects](#courses-and-projects) | [Contact](#contact)
+**[Personal](#personal) | [Work Expericence](#work-experience) | [Education](#education) | [Course & Projects](#courses-and-projects) | [Contact](#contact)**
+
+* * *
+
+```
+Hello!
+In this page I present to you my CV and personal experience
+```
 
 # Personal
-Interested in Computer Vision, Deep Learning, Natural Language Processing and Applied Research.\
-[LinkedIn Page](https://www.linkedin.com/in/ayham-olleik-9aaa97188/)
+Interested in Computer Vision, Deep Learning, Natural Language Processing and Applied Research.
 
 # Work Experience
 
@@ -82,3 +88,5 @@ Worked on a project aiming at replacing campus ID cards (e-purse, access control
 # Courses and Projects
 
 # Contact
+
+**Email**: ayhamolk@gmail.com
