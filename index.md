@@ -6,7 +6,7 @@ layout: default
 
 <!-- [Linkedin Page](https://www.linkedin.com/in/ayham-olleik-9aaa97188/). -->
 
-**[Personal](#personal) | [Work Experience](#work-experience) | [Education](#education) | [Courses & Projects](#courses-and-projects) | [Contact](#contact)**
+[Personal](#personal) | [Work Experience](#work-experience) | [Education](#education) | [Courses & Projects](#courses-and-projects) | [Contact](#contact)
 
 * * *
 
@@ -56,7 +56,7 @@ Worked on the development of new features for the main app developed by Pocketca
 **Location:** Beirut, Lebanon\
 **Date:** Oct. 2019 - Jun. 2020
 
-## Research Assitant
+## Research Assistant
 At the American Univerity of Beirut, I collaborated and wrote code with a research team working on Algorithmic Fairness for online job market ranking algorithms.
 
 **Instituation:** [American Univerity of Beirut](https://www.aub.edu/)\
@@ -65,7 +65,7 @@ At the American Univerity of Beirut, I collaborated and wrote code with a resear
 
 
 ## Software Engineer Intern
-Worked on a project aiming at replacing campus ID cards (e-purse, access control) with a smartphone app that authenticates against a TWN4 Canon reader device over Bluetooth Low Energy (BLE) technology. The project included a research phase to determine the secured protocol that will be used between the app and the TWN4 reader and finally an implementation phase for a fully working proof of concept demo on Android devices.
+Worked on a project aiming at replacing campus ID cards (e-purse, access control) with a smartphone app that authenticates against a TWN4 Canon reader device over Bluetooth Low Energy (BLE) technology. The project included a research phase to determine the secure protocol that will be used between the app and the TWN4 reader and finally an implementation phase for a fully working proof of concept demo on Android devices.
 
 **Company:** [Pocketcampus](https://pocketcampus.org/v2/home-en)\
 **Location:** Lausanne, Switzerland\
@@ -89,4 +89,7 @@ Worked on a project aiming at replacing campus ID cards (e-purse, access control
 
 # Contact
 
-**Email**: ayhamolk@gmail.com
+**Email**: ayhamolk at gmail dot com
+
+#### Dislaimer
+The main theme used in this page is provided by the [Architect](https://github.com/pages-themes/architect) theme on GitHub pages. 
